@@ -12,7 +12,7 @@
     animation: dev-animation 10s infinite linear;
 
 
-}
+} 
 @keyframes dev-animation{
     from{
         left: 100%;
@@ -28,29 +28,29 @@ h1{
 }
 div a{
     text-decoration: none;
-    color: orange;
-    
-}
-.empadao{
-    padding: 20px 57px;
+    color: rgb(167, 109, 2);
     
 }
 .divs{
-    
-    padding: 20px 100px;
-    
-  
+    width: 100%;
+    float: right;
     
 }
 .float{
     margin: 0 auto;
     width: 70%;
-}
-div p{
-    float: left;
-    width: 80% auto;
-
+    
 }
 body{
     background-color: rgb(240, 230, 230);
+}
+strong{
+    color: rgb(204, 135, 6);
+}
+.empadao2{
+    width: 100%;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: chocolate;
 }
